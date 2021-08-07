@@ -1,0 +1,31 @@
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+}
+
+body{
+background-color:#f7f7f7;
+}
+
+.row_first{
+background-color:#bce7c1;
+margin-bottom:5% 0;
+padding:5% 0;
+}
+
+.row_second{
+background-color:#cce5da;
+margin-bottom:5% 0;
+padding:5% 0;
+}
+
+.row_third{
+background-color:#eadcc0;
+margin-bottom:5% 0;
+padding:5% 0;
+}
+
+.colheight{
+height:150px;
+}
